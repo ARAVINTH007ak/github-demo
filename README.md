@@ -5,3 +5,9 @@ This is new line
 
 # Project details 
 This project is new for Github learners
+
+# Requiremnets 
+pandas
+numpy
+scipy 
+tensorflow 
